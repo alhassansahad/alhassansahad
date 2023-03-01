@@ -3,4 +3,4 @@
 - 👀 My research interests include remote sensing, machine learning, geospatial data analytics, and scientific software development.
 - 🔭 I’m currently working on Nitrogen Risk Assesment in the state of Missouri using Machine Learning
 - 👯 I’m looking to collaborate on software development projects which involves the geospatial data analytics and data science
-- 📫 [email](sahadalhassan96@gmail.com),[LinkedIn](https://www.linkedin.com/in/alhassan-sahad-735a13160/)
+- 📫 Email:sahadalhassan96@gmail.com,[LinkedIn](https://www.linkedin.com/in/alhassan-sahad-735a13160/)
